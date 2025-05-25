@@ -6,10 +6,14 @@
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-11-%23ED8B00?logo=openjdk&logoColor=white" alt="Java 11"></a>
   <a href="https://sqlite.org/"><img src="https://img.shields.io/badge/SQLite-✓-darkcyan?logo=sqlite&logoColor=white" alt="SQLite"></a>
   <a href="https://developer.android.com/jetpack"><img src="https://img.shields.io/badge/Jetpack-✓-blue" alt="Android Jetpack"></a>
-  <a href="https://developer.android.com/studio/releases/gradle-plugin"><img src="https://img.shields.io/badge/Gradle-8.4-green?logo=gradle" alt="Gradle"></a>
 </p>
 
 ## Acerca del proyecto
 LOGIN SIIGAAPP es una aplicación Android básica desarrollada como parte del primer laboratorio del curso de Aplicaciones Móviles de la Universidad Nacional del Santa, implementa un sistema básico de autenticación con dos pantallas principales:
 - Login para alumnos y docentes
 - Registro de nuevos alumnos
+
+___
+
+**Alumno:** Jose Manuel Vasquez Ramos  
+**Asignatura:** Aplicaciones Móviles
