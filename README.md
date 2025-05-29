@@ -13,6 +13,8 @@ LOGIN SIIGAAPP es una aplicación Android básica desarrollada como parte del pr
 - Login para alumnos y docentes
 - Registro de nuevos alumnos
 
+https://github.com/user-attachments/assets/4128cafd-ec82-4a39-b63e-6c36d8646960
+
 ___
 
 **Alumno:** Jose Manuel Vasquez Ramos  
